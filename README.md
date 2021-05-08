@@ -3,6 +3,7 @@ A book recommendation system where users can rate books and have books recommend
 I created this project in my final year of high school as part of a culminating assignment for my computer science course. The software has multiple pages created using using object-oriented programming and Java Applet.  
 
 ## Home Page
-The landing page with an option to log in or create a new user.
+The landing page with an option to log in or create a new user: 
+
 ![Home Page](/images/homePage.PNG)
 
