@@ -4,4 +4,5 @@ I created this project in my final year of high school as part of a culminating 
 
 ## Home Page
 The landing page with an option to log in or create a new user.
+![Home Page](/images/homePage.PNG)
 
